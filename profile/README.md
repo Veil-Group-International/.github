@@ -36,7 +36,7 @@ Our mission:
 ---
 
 ## ⚡ Identity
-![Veil Group International Logo] https://github.com/Veil-Group-International/.github/blob/main/profile/Copilot_20250814_230857.png
+![Veil Group International Logo]https://github.com/Veil-Group-International/.github/blob/main/profile/Copilot_20250814_230857.png
 
 ---
 
