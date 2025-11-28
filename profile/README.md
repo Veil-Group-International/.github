@@ -2,6 +2,10 @@
 
 **Veil Group International** · Physical Penetration Testing · Risk Mitigation · Digital Resilience
 
+![Pen Testing](https://img.shields.io/badge/Focus-Penetration%20Testing-red)
+![Security Research](https://img.shields.io/badge/Research-Security%20Labs-blue)
+![Resilience](https://img.shields.io/badge/Resilience-Digital%20&%20Physical-green)
+
 ---
 
 ## 🔐 About Us
