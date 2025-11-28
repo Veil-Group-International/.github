@@ -1,11 +1,11 @@
-# 🛡️ VeilGroup
+# Veil Group International
 
-**VeilGroup** · Physical Penetration Testing · Risk Mitigation · Digital Resilience
+**Veil Group International** · Physical Penetration Testing · Risk Mitigation · Digital Resilience
 
 ---
 
 ## 🔐 About Us
-VeilGroup is a security consultancy focused on **physical penetration testing** and **organizational resilience**.  
+Veil Group International is a security consultancy focused on **physical penetration testing** and **organizational resilience**.  
 We help clients identify vulnerabilities across **access controls, facilities, and human factors**, while bridging into **network penetration testing** and digital risk assessments.
 
 Our mission:  
@@ -36,7 +36,7 @@ Our mission:
 ---
 
 ## ⚡ Identity
-![VeilGroup Logo](link-to-your-logo-file)
+![Veil Group International Logo](link-to-your-logo-file)
 
 ---
 
