@@ -31,7 +31,7 @@ Our mission:
 ## 📫 Contact
 - Email: **intake@veilgroup.com**  
 - GitHub: **https://github.com/VeilGroup**  
-- LinkedIn: *(add company page link here)*  
+- LinkedIn: *https://www.linkedin.com/company/104850053/*  
 
 ---
 
