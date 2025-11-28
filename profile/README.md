@@ -30,13 +30,13 @@ Our mission:
 
 ## 📫 Contact
 - Email: **intake@veilgroup.com**  
-- GitHub: [VeilGroup](https://github.com/VeilGroup)  
+- GitHub: **https://github.com/VeilGroup**  
 - LinkedIn: *(add company page link here)*  
 
 ---
 
 ## ⚡ Identity
-![Veil Group International Logo](link-to-your-logo-file)
+![Veil Group International Logo] https://github.com/Veil-Group-International/.github/blob/main/profile/Copilot_20250814_230857.png
 
 ---
 
